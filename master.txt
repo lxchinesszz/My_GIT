@@ -1,7 +1,4 @@
 develop修改
 hello
 develop结束
-master第一次修改开始
-hello
-master第一次修改结束
 
