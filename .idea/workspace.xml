@@ -15,6 +15,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/master.txt" afterPath="$PROJECT_DIR$/master.txt" />
     </list>
 >>>>>>> develop
+<<<<<<< HEAD
+>>>>>>> master
+=======
+>>>>>>> c0ee08260eb034a5cd7bc8647fdaa785d9bf0810
 >>>>>>> master
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,6 +40,10 @@
         <entry file="file://$PROJECT_DIR$/master.txt">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+=======
+<<<<<<< HEAD
             <state relative-caret-position="51">
               <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
 <<<<<<< HEAD
@@ -44,6 +52,7 @@
             <state relative-caret-position="34">
               <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
 >>>>>>> develop
+>>>>>>> c0ee08260eb034a5cd7bc8647fdaa785d9bf0810
               <folding />
             </state>
           </provider>
@@ -141,6 +150,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
       <pane id="Scratches" />
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+=======
 =======
       <pane id="Scope" />
 >>>>>>> develop
@@ -148,6 +161,10 @@
 =======
       <pane id="Scratches" />
 >>>>>>> develop
+<<<<<<< HEAD
+>>>>>>> master
+=======
+>>>>>>> c0ee08260eb034a5cd7bc8647fdaa785d9bf0810
 >>>>>>> master
       <pane id="ProjectPane">
         <subPane>
@@ -164,9 +181,12 @@
         </subPane>
       </pane>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+=======
+>>>>>>> master
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -178,6 +198,10 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
 >>>>>>> develop
+<<<<<<< HEAD
+>>>>>>> master
+=======
+>>>>>>> c0ee08260eb034a5cd7bc8647fdaa785d9bf0810
 >>>>>>> master
     </panes>
   </component>
@@ -614,9 +638,17 @@
 =======
       <workItem from="1529460819674" duration="52000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1529461156044" duration="2000" />
 =======
 >>>>>>> develop
+>>>>>>> master
+=======
+      <workItem from="1529461304256" duration="53000" />
+      <workItem from="1531448926733" duration="28000" />
+=======
+>>>>>>> develop
+>>>>>>> c0ee08260eb034a5cd7bc8647fdaa785d9bf0810
 >>>>>>> master
     </task>
     <task id="LOCAL-00001" summary="添加新分支develop3">
@@ -729,7 +761,15 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="7430000" />
+=======
+    <option name="totallyTimeSpent" value="7509000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+>>>>>>> master
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -753,6 +793,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="false" />
 >>>>>>> develop
+>>>>>>> c0ee08260eb034a5cd7bc8647fdaa785d9bf0810
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -766,6 +807,9 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32853025" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
 <<<<<<< HEAD
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2433735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3314121" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -776,12 +820,17 @@
 =======
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28433734" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
 >>>>>>> develop
+>>>>>>> c0ee08260eb034a5cd7bc8647fdaa785d9bf0810
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
 <<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27110156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
 =======
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26752505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2746781" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> master
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
 >>>>>>> develop
 >>>>>>> master
@@ -844,6 +893,41 @@
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
 =======
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/develop.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/master.txt">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> master
         <state relative-caret-position="34">
           <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
           <folding />
@@ -997,6 +1081,10 @@
     <entry file="file://$PROJECT_DIR$/master.txt">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+=======
+<<<<<<< HEAD
         <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
 >>>>>>> develop
@@ -1004,6 +1092,7 @@
         <state relative-caret-position="34">
           <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
 >>>>>>> develop
+>>>>>>> c0ee08260eb034a5cd7bc8647fdaa785d9bf0810
           <folding />
         </state>
       </provider>
